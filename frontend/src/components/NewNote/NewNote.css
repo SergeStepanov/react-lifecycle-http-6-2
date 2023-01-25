@@ -1,0 +1,16 @@
+.text-form {
+    position: relative;
+}
+
+.note-text {
+  min-width: 400px;
+  max-width: 400px;
+  
+  resize: none;
+}
+
+.btn-add-tex {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}

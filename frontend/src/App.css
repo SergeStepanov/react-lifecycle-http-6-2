@@ -1,3 +1,11 @@
 .container {
-  max-width: 1200px;
+  max-width: 900px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.list_item {
+  border: 1px solid black;
 }
